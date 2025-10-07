@@ -1,8 +1,13 @@
 function First(){
+function show(){
+    console.log("project running")
 
+}
 
     return(<>
-    <h1>hello world</h1>
+    <h1>darshan jain</h1>
+
+    <button onClick={show}>click here</button>
     
     </>)
 }
